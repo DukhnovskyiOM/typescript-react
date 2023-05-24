@@ -1,4 +1,4 @@
-import { Navigation } from "./components/Naigation"
+import { Navigation } from "./components/Navigation"
 import { AboutPage } from "./pages/AboutPage"
 import { ProductPage } from "./pages/ProductPage"
 import {Route, Routes} from 'react-router-dom'
